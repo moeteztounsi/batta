@@ -1,0 +1,10 @@
+body.modal-open .bg{
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+}
+.landing-image{
+    margin-bottom: 53px;
+    display: flex;
+    width: 100%; 
+}
+

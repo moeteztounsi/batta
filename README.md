@@ -49,6 +49,7 @@ A web-site for online auctions.
         . You are familiar with React js.
         . You are familiar with REST API's.
         . You are familiar with Mongodb.
+        . You are familiar with Express js.
     
     - License: 
         By contributing to Batta, you agree that your contributions will be licensed under its MIT license.

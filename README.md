@@ -53,6 +53,9 @@ A web-site for online auctions.
         By contributing to Batta, you agree that your contributions will be licensed under its MIT license.
 
 
+- Original developers:
+    Moetez Tounsi
+        
 - License:
     Batta is MIT licensed.
 

@@ -38,8 +38,9 @@ A web-site for online auctions.
         Before submitting a pull request, please make sure the following is done:
         
         1. Fork the repository and create your branch from main.
-        2. Run npm install in the repository root.
-        3. If you’ve fixed a bug or added code that should be tested, add tests!
+        2. Choose wether you want to contribute to the front-end or the back-end.
+        3. Run npm install in the repository root.
+        4. If you’ve fixed a bug or added code that should be tested, add tests!
         
     - Contribution Prerequisites:
     

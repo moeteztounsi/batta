@@ -3,7 +3,7 @@ A web-site for online auctions.
 
 - Description:
 
-    Many people enjoy buying and selling things at auctions so they are obliged to go from one place to another which can cost money and time.
+    Many people enjoy making money by buying and selling things at auctions so they are obliged to go from one place to another which can cost money and     time.
     Batta is web-site that allows people to participate in auctions online.
     
 - Contributing:

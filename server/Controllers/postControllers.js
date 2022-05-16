@@ -4,7 +4,7 @@ const asyncHandler = require("express-async-handler");
 
 const savePost = asyncHandler(async(req,res)=>{
 
-    const {name, deadline, price, description, image} = req.body;
+    const {name, deadline, price, description} = req.body;
  
 
     const postExists = await Post.findOne({image});
